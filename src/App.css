@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+.active-invoice {
+  color: orange;
+  transition: all 1s ease;
+  font-weight: 600;
+}
